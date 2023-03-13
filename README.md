@@ -1,8 +1,16 @@
 # matrix-world
 
-Open protocol MMORPG
+Open MMORPG protocol via TCP/IP
 
-A little P2P MMORPG players and mosters connected via /TCP
+The open protocol is intended to make the game more complete by allowing mobs to be added with more attacks and more complex patterns, increasing gameplay.
+
+Players and mobs will use the protocol to connect to the game and will only have access to the information provided by the server to make their decisions, thus allowing a fairer game.
+
+Both players and mobs will be equal before the server allowing them to evolve as they defeat an enemy by accumulating EXP (experience)
+
+The game will also feature accumulation of proficiency, in short, the more the player uses a skill, the more that skill will evolve.
+
+Because it is an open protocol it also gives room for bots and players to use AI and other resources without overloading the main server, allowing more complex attacks and patterns to be added.
 
 ### Client comands
 
